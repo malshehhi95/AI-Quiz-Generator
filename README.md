@@ -65,13 +65,6 @@ python quiz_generator.py
 
 Extensive testing was conducted at the Higher Colleges of Technology.
 
-## Contributing
-
-To contribute, fork the repo, create a branch, commit your changes, and create a pull request.
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
